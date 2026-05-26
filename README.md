@@ -1,6 +1,6 @@
-# Olá, eu sou o Leonardo Lamari 👋
+# Olá, me chamo Leonardo
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na FECAP (2° Semestre), apaixonado por tecnologia e desenvolvimento web. Estou construindo minha trajetória na área de TI com dedicação e vontade de aprender sempre mais.
+Estudante de **Análise e Desenvolvimento de Sistemas** na FECAP (2° Semestre). 
 
 ---
 
@@ -8,17 +8,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FECAP (2° Semestre),
 
 - 🎓 Cursando **ADS na FECAP** — São Paulo, SP
 - 📚 Técnico em Informática pela **Escola Técnica Oswaldo Cruz** (2022–2024)
-- 💻 Foco em **desenvolvimento front-end** com HTML, CSS e JavaScript
-- 🌱 Aprendendo cada vez mais sobre programação e banco de dados
 - 🇧🇷 Português nativo | 🇺🇸 Inglês intermediário
-
----
-
-## 🛠️ Tecnologias que estou aprendendo
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -44,7 +34,3 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FECAP (2° Semestre),
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocruzlamar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-
----
-
-> *"A jornada de mil milhas começa com um único passo."* — sempre em evolução 🚀
