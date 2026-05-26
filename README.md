@@ -22,14 +22,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FECAP (2° Semestre).
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLamar12&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLamar12&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocruzlamar@gmail.com)
