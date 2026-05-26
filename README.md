@@ -1,28 +1,8 @@
-# Olá, me chamo Leonardo
+Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na FECAP (2° Semestre). 
+Me chamo Leonardo, tenho 19 anos, moro em São Paulo capital e estou no 2° semestre de ADS na FECAP Liberdade.
+Desde criança sempre tive interesse em programar por conta da minha paixão por jogos, esse interesse me levou a aprender programação desde cedo(uns 12 anos). Desde então não tenho parado de aprender mais osbre o mundo da tecnologia e programação, principalmente dos jogos.
 
----
+Tenho muito interesse em areas de programação e desenvolvimento, principalmente envolvendo Back-End. Tenho conhecimento em diversas linguagens como C#, Python, JS, SQL, CSS, HTML e GML. 
 
-## 🚀 Sobre mim
-
-- 🎓 Cursando **ADS na FECAP** — São Paulo, SP
-- 📚 Técnico em Informática pela **Escola Técnica Oswaldo Cruz** (2022–2024)
-- 🇧🇷 Português nativo | 🇺🇸 Inglês intermediário
-
----
-
-## 📂 Projetos em destaque
-
-| Projeto | Descrição | Deploy |
-|--------|-----------|--------|
-| [⏰ Relógio](https://github.com/LeonardoLamar12/relogio) | Relógio digital — meu primeiro contato com JavaScript | [Ver ao vivo](https://relogio-chi.vercel.app) |
-| [🎮 Coala Games](https://github.com/LeonardoLamar12/Coala-Games) | Página temática de games feita com HTML | — |
-| [📝 Formulário](https://github.com/LeonardoLamar12/Formulario) | Formulário estilizado com CSS | — |
-
----
-
-## 📬 Contato
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocruzlamar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+Embora não tenha muitos projetos postados aqui no GItHub pretendo aumentar meu portfólio
