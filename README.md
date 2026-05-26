@@ -14,6 +14,6 @@ Tenho muito interesse em areas de programação e desenvolvimento, principalment
 </div>
 <div>
 
-Embora não tenha muitos projetos no GitHub estou aumentando meu portfólio
+Estarei sempre postando novos projetos, sinta-se a vontade para acompanhar
   
 </div>
