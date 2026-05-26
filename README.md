@@ -1,9 +1,9 @@
 <div align="center">
-## Sobre mim :book: :
+# Sobre mim :book: :
 </div>
 
 
-# Me chamo Leonardo, tenho 19 anos, moro em São Paulo capital e estou no 2° semestre de ADS na FECAP Liberdade.
+## Me chamo Leonardo, tenho 19 anos, moro em São Paulo capital e estou no 2° semestre de ADS na FECAP Liberdade.
 Desde criança sempre tive interesse em programar por conta da minha paixão por jogos, esse interesse me levou a aprender programação desde cedo(uns 12 anos). Desde então não tenho parado de aprender mais osbre o mundo da tecnologia e programação, principalmente dos jogos.
 
 Tenho muito interesse em areas de programação e desenvolvimento, principalmente envolvendo Back-End. Tenho conhecimento em diversas linguagens como C#, Python, JS, SQL, CSS, HTML e GML. 
