@@ -17,3 +17,10 @@ Tenho muito interesse em areas de programação e desenvolvimento, principalment
 Estarei sempre postando novos projetos, sinta-se a vontade para acompanhar
   
 </div>
+<div align="center">
+
+Commits que senti que aprendi bastante:
+<link https://github.com/2026-1-NADS2/Projeto3/tree/main/documentos/Entrega%202/POO >Api em C#</link>
+
+</div>
+
