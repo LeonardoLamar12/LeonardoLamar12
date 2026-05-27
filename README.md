@@ -20,7 +20,7 @@ Estarei sempre postando novos projetos, sinta-se a vontade para acompanhar
 <div align="center">
 
 Commits que senti que aprendi bastante:
-<a href="[#noticias](https://github.com/2026-1-NADS2/Projeto3/tree/main/documentos/Entrega%202/POO)">Noticias</a>
+<a href="[#noticias](https://github.com/2026-1-NADS2/Projeto3/tree/main/documentos/Entrega%202/POO)" >Noticias</a>
 
 </div>
 
