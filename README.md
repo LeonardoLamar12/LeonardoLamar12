@@ -23,4 +23,7 @@ Estarei sempre postando novos projetos, sinta-se a vontade para acompanhar
 [API COM C# .NET, EF CORE E MYSQL](https://github.com/2026-1-NADS2/Projeto3/tree/main/documentos/Entrega%202/POO) e
 [Projeto Integrador do 1°semestre](https://github.com/2025-2-NADS1/Projeto1)
 </div>
-
+<div align="center">
+## Atualmente trabalhando em:
+  [Projeto Integrador do 3°semestre](https://github.com/2026-2-NADS3/Projeto8)
+</div>
