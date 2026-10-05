@@ -22,6 +22,5 @@ Estarei sempre postando novos projetos, sinta-se a vontade para acompanhar
 ## Commits que senti que aprendi bastante:
 [API COM C# .NET, EF CORE E MYSQL](https://github.com/2026-1-NADS2/Projeto3/tree/main/documentos/Entrega%202/POO) e
 [Projeto Integrador do 1°semestre](https://github.com/2025-2-NADS1/Projeto1)
-[Projeto integrador do 2°semestre](https://github.com/2026-1-NADS2/Projeto3)
 </div>
 
